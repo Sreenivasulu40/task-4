@@ -158,7 +158,7 @@ public class HotelReservationSystem {
                     hotel.displayReservationDetails(reservationNumber);
                     break;
                 case 4:
-                    System.out.println("Thank you for using the Hotel Reservation System. Goodbye!");
+                    System.out.println("Thank you for using the Hotel Reservation System!");
                     System.exit(0);
                 default:
                     System.out.println("Invalid choice. Please enter a number between 1 and 4.");
